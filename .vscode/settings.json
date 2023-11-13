@@ -54,7 +54,8 @@
     "vector": "cpp",
     "algorithm": "cpp",
     "thread": "cpp",
-    "iomanip": "cpp"
+    "iomanip": "cpp",
+    "fstream": "cpp"
   },
   "C_Cpp.default.cppStandard": "c++20"
 }
