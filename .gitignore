@@ -31,3 +31,5 @@ main.o.*
 *.exe
 *.out
 *.app
+
+build
